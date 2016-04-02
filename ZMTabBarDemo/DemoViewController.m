@@ -73,7 +73,7 @@
     //让我们的标签居中
     [self.HeadScroll btnToCenter:selectedChannelBtn];
     
-    //    [self.HeadScroll scrollToTag:selectedChannelBtn];
+//        [self.HeadScroll scrollToTag:selectedChannelBtn];
     
 }
 

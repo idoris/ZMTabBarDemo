@@ -24,7 +24,7 @@
     DemoViewController *demoVC = [[DemoViewController alloc]init];
     self.demoVC = demoVC;
     
-//    [demoVC addPresentViewController:self WithIndex:2 ];//
+    [demoVC addPresentViewController:self WithIndex:2 ];//
     
 }
 
